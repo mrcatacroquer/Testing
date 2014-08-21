@@ -1,5 +1,0 @@
-<TOP|N|=20/>
-<LEFT|N|=5/>
-<ESTIRAR|L|=.T./>
-<CANCELOP|L|=.T./>
-<DECIMAL|N|=2/>
